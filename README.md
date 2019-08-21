@@ -5,6 +5,5 @@ In Python, the following code reads the correlation matrix from a .npy file:
 
 """"""""""
 import numpy
-
 corMat = numpy.load(cormat_Nn_Kk_Cc.npy)
 """"""""""
