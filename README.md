@@ -1,5 +1,5 @@
 # DLSC-CorMarices
-This repo contains the trained correlation matrices for the bit-flipping metric computation of the DLSC decoder for 5G polar codes.
+This repo contains the trained correlation matrices for the bit-flipping metric computation of the DLSC decoder.
 The matrix for a polar code is stored in both .txt and .npy formats.
 In Python, the following code reads the correlation matrix from a .npy file:
 
