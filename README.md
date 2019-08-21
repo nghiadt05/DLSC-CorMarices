@@ -3,7 +3,7 @@ This repo contains the trained correlation matrices for the bit-flipping metric 
 The matrix for a polar code is stored in both .txt and .npy formats.
 In Python, the following code reads the correlation matrix from a .npy file:
 
-""""""""""
-import numpy
-corMat = numpy.load(cormat_Nn_Kk_Cc.npy)
-""""""""""
+""""""""""<br />
+import numpy<br />
+corMat = numpy.load(cormat_Nn_Kk_Cc.npy)<br />
+""""""""""<br />
