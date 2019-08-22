@@ -6,4 +6,5 @@ In Python, the following code reads the correlation matrix from a .npy file:<br 
 import numpy<br />
 corMat = numpy.load('cormat_Nn_Kk_Cc.npy')<br />
 ##########<br />
-n is the code length, k is the number of information bits, and c is the size of the CRC.
+where n is the code length, k is the number of information bits, and c is the size of the CRC.<br />
+The FER/BER curves of various decoders are also given for reference.
